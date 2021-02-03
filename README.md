@@ -15,7 +15,7 @@
 - 📫 How to reach me: [Mail](https://mail.google.com/mail/?tab=om&authuser=0)
 - 😄 Pronouns: Creater🤙
 - ⚡ Fun fact: I Eat more when i'm in anger🤫
-### Tools Known
+Tools Known
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -38,11 +38,11 @@
 - :paperclip:[resume](https://drive.google.com/file/d/1Y9yxvmdh5OWcJ8cczU7A6clIkHRVv_Xc/view?usp=sharing)
 
 
-#### Profile Visits 
+Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aarthi212.Aarthi212)
 
-#### Github Stats
+Github Stats
 
 ![Aarthi212's github stats](https://github-readme-stats.vercel.app/api?username=Aarthi212&count_private=true&theme=tokyonight&hide=contribs,prs)
 
