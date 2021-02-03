@@ -7,7 +7,7 @@
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi212/)
-[![Instagram Badge](https://img.shields.io/badge/Insta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Idealever)
+[![Instagram Badge](https://img.shields.io/badge/Insta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/idealever212)
 [![Mail Badge](https://img.shields.io/badge/Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:urown212@gmail.com)
 
 - 🔭 I’m currently working on **React** 
