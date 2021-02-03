@@ -2,8 +2,6 @@
 
 <h3 align="center">WEB DEVELOPER👩‍💻 || GIRLS@TECH IN DSC🧚 || MODERATOR @TEAM KANAA🕊️</h3>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
 :mailbox: Reach me out👇!
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi212/)
