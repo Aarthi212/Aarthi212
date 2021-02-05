@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarthi212/)
 [![Instagram Badge](https://img.shields.io/badge/Insta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/idealever212)
 [![Mail Badge](https://img.shields.io/badge/Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:urown212@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-707070?style=flat&labelColor=707070&logo=discord&logoColor=white)](https://www.discord.com/Aarthi#1823)
 
 - 🔭 I’m currently working on **React** 
 - 🤔 I’m looking for help with Website creations
