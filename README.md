@@ -35,7 +35,7 @@ Tools Known
 <br />
 <br />
 
-- :paperclip:[resume](https://drive.google.com/file/d/1Y9yxvmdh5OWcJ8cczU7A6clIkHRVv_Xc/view?usp=sharing)
+- :paperclip:[resume](https://drive.google.com/file/d/16CnQfU0zokKQpS_cU6xcqQe-OnxQA-Hr/view?usp=sharing)
 
 
 Profile Visits 
